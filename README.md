@@ -21,6 +21,8 @@ Install using the Visual Studio Marketplace: https://marketplace.visualstudio.co
 # TextMate
 [Download this repository as a .zip](https://github.com/jaredgorski/Nineties/archive/master.zip), unzip the directory, navigate within the **Nineties_textmate** folder, and open the desired **.tmTheme** file using TextMate.
 
+---
+
 # Nineties Colors
 
 ![Nineties Color Palette](/.media/Nineties-color-palette.png)
