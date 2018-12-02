@@ -48,3 +48,5 @@ Install using the Visual Studio Marketplace: https://marketplace.visualstudio.co
 - #91721F
 - #A91560
 - #B4A1A1
+
+*Inspired by [the IBM Design Language Color Library](https://www.ibm.com/design/language/resources/color-library/)*
