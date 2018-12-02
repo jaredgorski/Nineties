@@ -1,0 +1,63 @@
+{
+    "name": "nineties",
+    "displayName": "Nineties",
+    "description": "Colors for World Wide Web pioneers",
+    "version": "0.0.0",
+    "publisher": "jibjack",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jaredgorski/Nineties.git"
+	},
+	"homepage": "https://github.com/jaredgorski/Nineties/blob/master/README.md",
+	"author": {
+		"name": "jaredgorski"
+	},
+	"keywords": [
+		"dark",
+        "light",
+        "blue",
+        "vintage",
+        "simple",
+        "contrast",
+		"low-contrast",
+		"white",
+		"easy",
+		"minimalist",
+		"retro",
+		"pure",
+		"clean",
+		"editor",
+		"material",
+		"minimal",
+        "dos",
+        "ms",
+        "ibm",
+        "microsoft",
+		"msdos"
+	],
+	"icon": ".media/Nineties_icon.png",
+	"galleryBanner": {
+		"color": "#2d74da",
+		"theme": "light"
+	},
+    "engines": {
+        "vscode": "^1.29.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nineties",
+                "uiTheme": "vs",
+                "path": "./themes/Nineties-color-theme.json"
+            },
+            {
+                "label": "Nineties Big Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nineties_big_blue-color-theme.json"
+            }
+        ]
+    }
+}
