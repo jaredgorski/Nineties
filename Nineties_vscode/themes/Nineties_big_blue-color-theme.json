@@ -162,7 +162,7 @@
 		}
 	],
 	"colors": {
-		"activityBar.background": "#424747",
+		"activityBar.background": "#343334",
 		"activityBar.foreground": "#d0dada",
 		"activityBarBadge.background": "#c8daf4",
 		"activityBarBadge.foreground": "#1f57a4",
@@ -207,7 +207,7 @@
 		"list.invalidItemForeground": "#EAEAEA",
 		"list.warningForeground": "#f7aac3",
 		"selection.background": "#91721f",
-		"sideBar.background": "#424747",
+		"sideBar.background": "#464646",
 		"sideBar.foreground": "#EAEAEA",
 		"sideBarTitle.foreground": "#d0dada",
 		"statusBar.background": "#343334",
