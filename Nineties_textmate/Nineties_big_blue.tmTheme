@@ -20,7 +20,7 @@
 				<key>lineHighlight</key>
 				<string>#FFFFFF</string>
 				<key>selection</key>
-				<string>#464646</string>
+				<string>#000000</string>
 			</dict>
 		</dict>
 		<dict>

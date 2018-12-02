@@ -159,7 +159,7 @@
 		"editor.foreground": "#EAEAEA",
 		"editorWhitespace.foreground": "#25467A",
 		"editor.lineHighlightBackground": "#FFFFFF",
-		"editor.selectionBackground": "#464646"
+		"editor.selectionBackground": "#000000"
 	},
 	"name": "Nineties Big Blue"
 }

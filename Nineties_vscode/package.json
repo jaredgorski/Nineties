@@ -2,7 +2,7 @@
     "name": "nineties",
     "displayName": "Nineties",
     "description": "Colors for World Wide Web pioneers",
-    "version": "0.0.0",
+    "version": "0.0.2",
     "publisher": "jibjack",
 	"repository": {
 		"type": "git",
@@ -37,7 +37,7 @@
 	],
 	"icon": ".media/Nineties_icon.png",
 	"galleryBanner": {
-		"color": "#2d74da",
+		"color": "#e1ebf7",
 		"theme": "light"
 	},
     "engines": {
