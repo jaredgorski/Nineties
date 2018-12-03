@@ -28,28 +28,28 @@ Install using the Visual Studio Marketplace: https://marketplace.visualstudio.co
 ![Nineties Color Palette](/.media/Nineties_color-swatch.png)
 
 **Default**
-- #E1EBF7 *(background)*
-- #1D3458
-- #1F57A4
-- #25467A
-- #5392FF
-- #5F5757
-- #7D7373
-- #91721F
-- #A91560
 - #B4A1A1
+- #A91560
+- #91721F
+- #7D7373
+- #5F5757
+- #5392FF
+- #25467A
+- #1F57A4
+- #1D3458
+- #E1EBF7 *(background)*
 
 **Big Blue**
-- #25467A *(background)*
-- #6F7878
-- #79A6F6
-- #B8C1C1
-- #C6A21A
-- #C7B6F7
-- #CCBCBC
-- #F7AAC3
-- #FBEAAE
 - #FED500
+- #FBEAAE
+- #F7AAC3
+- #CCBCBC
+- #C7B6F7
+- #C6A21A
+- #B8C1C1
+- #79A6F6
+- #6F7878
+- #25467A *(background)*
 
 ---
 
