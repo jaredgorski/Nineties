@@ -8,11 +8,11 @@ Install using the Visual Studio Marketplace: https://marketplace.visualstudio.co
 
 
 ![Nineties Default Theme](/.media/Nineties-vscode-img.png)
-*Nineties Default Theme*
+*<p align="right">Nineties Default Theme</p>*
 
 
 ![Nineties Big Blue Theme](/.media/Nineties_big_blue-vscode-img.png)
-*Nineties Big Blue Theme*
+*<p align="right">Nineties Big Blue Theme</p>*
 
 
 # Sublime
