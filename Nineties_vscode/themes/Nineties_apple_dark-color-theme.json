@@ -42,7 +42,7 @@
 			"name": "Variable",
 			"scope": "variable",
 			"settings": {
-				"foreground": "#A91560",
+				"foreground": "#cf2f7f",
 			}
 		},
 		{
@@ -116,14 +116,14 @@
 			"name": "Library function",
 			"scope": "support.function",
 			"settings": {
-				"foreground": "#1F57A4"
+				"foreground": "#1966d3"
 			}
 		},
 		{
 			"name": "Library constant",
 			"scope": "support.constant",
 			"settings": {
-				"foreground": "#1F57A4"
+				"foreground": "#1966d3"
 			}
 		},
 		{
@@ -134,14 +134,14 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#1F57A4"
+				"foreground": "#1966d3"
 			}
 		},
 		{
 			"name": "Library variable",
 			"scope": "support.other.variable",
 			"settings": {
-				"foreground": "#A91560"
+				"foreground": "#cf2f7f"
 			}
 		},
 		{
@@ -183,8 +183,8 @@
 		"editorGroupHeader.noTabsBackground": "#343334",
 		"editorGroupHeader.tabsBackground": "#343334",
 		"editorGutter.background": "#0A0A0A",
-		"editorIndentGuide.activeBackground": "#25467A",
-		"editorIndentGuide.background": "#25467A",
+		"editorIndentGuide.activeBackground": "#0A0A0A",
+		"editorIndentGuide.background": "#0A0A0A",
 		"editorRuler.foreground": "#777777",
 		"editorWhitespace.foreground": "#0A0A0A",
 		"focusBorder": "#9fa7a7",
