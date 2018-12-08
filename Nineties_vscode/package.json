@@ -2,7 +2,7 @@
     "name": "nineties",
     "displayName": "Nineties",
     "description": "Colors for World Wide Web pioneers",
-    "version": "0.1.8",
+    "version": "0.1.9",
     "publisher": "jibjack",
 	"repository": {
 		"type": "git",
@@ -60,6 +60,21 @@
                 "label": "Nineties Big Blue",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Nineties_big_blue-color-theme.json"
+            },
+            {
+                "label": "Nineties Apple Light",
+                "uiTheme": "vs",
+                "path": "./themes/Nineties_apple_light-color-theme.json"
+            },
+            {
+                "label": "Nineties Apple Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-color-theme.json"
+            },
+            {
+                "label": "Nineties BIOS",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nineties_BIOS-color-theme.json"
             }
         ]
     }
