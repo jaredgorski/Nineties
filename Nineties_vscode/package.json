@@ -2,7 +2,7 @@
     "name": "nineties",
     "displayName": "Nineties",
     "description": "Colors for World Wide Web pioneers",
-    "version": "0.1.9",
+    "version": "0.2.0",
     "publisher": "jibjack",
 	"repository": {
 		"type": "git",
@@ -69,7 +69,7 @@
             {
                 "label": "Nineties Apple Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/dark-color-theme.json"
+                "path": "./themes/Nineties_apple_dark-color-theme.json"
             },
             {
                 "label": "Nineties BIOS",
