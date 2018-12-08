@@ -4,7 +4,7 @@
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#6F7878"
+				"foreground": "#5C5C5C"
 			}
 		},
 		{
@@ -18,14 +18,14 @@
 			"name": "Number",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#79A6F6"
+				"foreground": "#973999"
 			}
 		},
 		{
 			"name": "Built-in constant",
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#79A6F6"
+				"foreground": "#973999"
 			}
 		},
 		{
@@ -35,95 +35,95 @@
 				"constant.other"
 			],
 			"settings": {
-				"foreground": "#79A6F6"
+				"foreground": "#973999"
 			}
 		},
 		{
 			"name": "Variable",
 			"scope": "variable",
 			"settings": {
-				"foreground": "#EAEAEA"
+				"foreground": "#A91560",
 			}
 		},
 		{
 			"name": "Keyword",
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#B8C1C1"
+				"foreground": "#E23838",
 			}
 		},
 		{
 			"name": "Storage",
 			"scope": "storage",
 			"settings": {
-				"fontStyle": " italic",
-				"foreground": "#FBEAAE"
+				"foreground": "#E23838",
+				"fontStyle": " italic"
 			}
 		},
 		{
 			"name": "Storage type",
 			"scope": "storage.type",
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#79A6F6"
+				"foreground": "#009CDF",
+				"fontStyle": " italic"
 			}
 		},
 		{
 			"name": "Class name",
 			"scope": "entity.name.class",
 			"settings": {
-				"fontStyle": "underline",
-				"foreground": "#C6A21A"
+				"fontStyle": "underline   ",
+				"foreground": "#5EBD3E",
 			}
 		},
 		{
 			"name": "Inherited class",
 			"scope": "entity.other.inherited-class",
 			"settings": {
-				"fontStyle": "italic underline",
-				"foreground": "#C6A21A"
+				"fontStyle": "italic underline   ",
+				"foreground": "#5EBD3E",
 			}
 		},
 		{
 			"name": "Function name",
 			"scope": "entity.name.function",
 			"settings": {
-				"foreground": "#FED500"
+				"foreground": "#5EBD3E",
 			}
 		},
 		{
 			"name": "Function argument",
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#C7B6F7"
+				"foreground": "#F78200",
 			}
 		},
 		{
 			"name": "Tag name",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#F7AAC3"
+				"foreground": "#E23838"
 			}
 		},
 		{
 			"name": "Tag attribute",
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#79A6F6"
+				"foreground": "#009CDF"
 			}
 		},
 		{
 			"name": "Library function",
 			"scope": "support.function",
 			"settings": {
-				"foreground": "#C6A21A"
+				"foreground": "#1F57A4"
 			}
 		},
 		{
 			"name": "Library constant",
 			"scope": "support.constant",
 			"settings": {
-				"foreground": "#C6A21A"
+				"foreground": "#1F57A4"
 			}
 		},
 		{
@@ -134,14 +134,14 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#C6A21A"
+				"foreground": "#1F57A4"
 			}
 		},
 		{
 			"name": "Library variable",
 			"scope": "support.other.variable",
 			"settings": {
-				"foreground": "#EAEAEA"
+				"foreground": "#A91560"
 			}
 		},
 		{
@@ -149,14 +149,14 @@
 			"scope": "invalid",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#E01010"
+				"foreground": "#FFFFFF"
 			}
 		},
 		{
 			"name": "Invalid deprecated",
 			"scope": "invalid.deprecated",
 			"settings": {
-				"foreground": "#7cb421"
+				"foreground": "#FFFFFF"
 			}
 		}
 	],
@@ -175,10 +175,10 @@
 		"dropdown.border": "#9fa7a7",
 		"dropdown.foreground": "#000000",
 		"dropdown.listBackground": "#b8c1c1",
-		"editor.background": "#25467A",
-		"editor.foreground": "#EAEAEA",
-		"editor.lineHighlightBackground": "#FFFFFF",
-		"editor.selectionBackground": "#000000",
+		"editor.background": "#0A0A0A",
+		"editor.foreground": "#BFBFBF",
+		"editor.lineHighlightBackground": "#CCDCF5",
+		"editor.selectionBackground": "#CCDCF5",
 		"editorCursor.foreground": "#FFFFFF",
 		"editorGroupHeader.noTabsBackground": "#343334",
 		"editorGroupHeader.tabsBackground": "#343334",
@@ -186,16 +186,16 @@
 		"editorIndentGuide.activeBackground": "#25467A",
 		"editorIndentGuide.background": "#25467A",
 		"editorRuler.foreground": "#777777",
-		"editorWhitespace.foreground": "#25467A",
+		"editorWhitespace.foreground": "#0A0A0A",
 		"focusBorder": "#9fa7a7",
 		"foreground": "#EAEAEA",
 		"gitDecoration.addedResourceForeground": "#cfffce",
-		"gitDecoration.modifiedResourceForeground": "#f8ff9b",
-		"gitDecoration.deletedResourceForeground": "#f39191",
-		"gitDecoration.untrackedResourceForeground": "#22aaaf",
-		"gitDecoration.ignoredResourceForeground": "#ecc068",
 		"gitDecoration.conflictingResourceForeground": "#ecc068",
+		"gitDecoration.deletedResourceForeground": "#f39191",
+		"gitDecoration.ignoredResourceForeground": "#ecc068",
+		"gitDecoration.modifiedResourceForeground": "#f8ff9b",
 		"gitDecoration.submoduleResourceForeground": "#ecc068",
+		"gitDecoration.untrackedResourceForeground": "#22aaaf",
 		"input.background": "#343334",
 		"input.border": "#595859",
 		"list.activeSelectionBackground": "#a6a5a6",
@@ -230,5 +230,5 @@
 		"titleBar.inactiveBackground": "#595859",
 		"titleBar.inactiveForeground": "#b8c1c1"
 	},
-	"name": "Nineties Big Blue"
+	"name": "Nineties Apple Dark"
 }
