@@ -6,6 +6,7 @@ Colors for World Wide Web pioneers
 # Visual Studio Code
 Install using the Visual Studio Marketplace: https://marketplace.visualstudio.com/items?itemName=jibjack.nineties
 
+## Previews:
 
 *<p align="right">Nineties Default Theme</p>*
 ![Nineties Default Theme](/.media/Nineties_default-preview.png)
