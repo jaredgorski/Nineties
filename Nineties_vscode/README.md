@@ -2,19 +2,19 @@
 
 ## Theme Variations:
 
-*<p align="right">Nineties Default Theme</p>*
+<p align="right">Nineties Default Theme</p>
 ![Nineties Default Theme](https://raw.githubusercontent.com/jaredgorski/Nineties/master/.media/Nineties_default-preview.png)
 
-*<p align="right">Nineties Big Blue Theme</p>*
+<p align="right">Nineties Big Blue Theme</p>
 ![Nineties Big Blue Theme](https://raw.githubusercontent.com/jaredgorski/Nineties/master/.media/Nineties_big_blue-preview.png)
 
-*<p align="right">Nineties Apple Dark Theme</p>*
+<p align="right">Nineties Apple Dark Theme</p>
 ![Nineties Apple Dark Theme](https://raw.githubusercontent.com/jaredgorski/Nineties/master/.media/Nineties_apple_dark-preview.png	)
 
-*<p align="right">Nineties Apple Light Theme</p>*
+<p align="right">Nineties Apple Light Theme</p>
 ![Nineties Apple Light Theme](https://raw.githubusercontent.com/jaredgorski/Nineties/master/.media/Nineties_apple_light-preview.png)
 
-*<p align="right">Nineties BIOS Theme</p>*
+<p align="right">Nineties BIOS Theme</p>
 ![Nineties BIOS Theme](https://raw.githubusercontent.com/jaredgorski/Nineties/master/.media/Nineties_BIOS-preview.png)
 
 ---
