@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/jaredgorski/Nineties/master/.media/Nineties_header-img.png)
 
----
+## Theme Variations:
 
 *<p align="right">Nineties Default Theme</p>*
 ![Nineties Default Theme](https://raw.githubusercontent.com/jaredgorski/Nineties/master/.media/Nineties_default-preview.png)
