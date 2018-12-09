@@ -6,7 +6,13 @@ Colors for World Wide Web pioneers
 # Visual Studio Code
 Install using the Visual Studio Marketplace: https://marketplace.visualstudio.com/items?itemName=jibjack.nineties
 
-## Theme Variations:
+# Sublime
+[Download this repository as a .zip](https://github.com/jaredgorski/Nineties/archive/master.zip), unzip the directory, open your `Packages` directory in Sublime via `Preferences -> Browse Packages`, and copy the **Nineties_textmate** folder into `Packages`.
+
+# TextMate
+[Download this repository as a .zip](https://github.com/jaredgorski/Nineties/archive/master.zip), unzip the directory, navigate within the **Nineties_textmate** folder, and open the desired **.tmTheme** file using TextMate.
+
+# Theme Variations:
 
 *<p align="right">Nineties Default Theme</p>*
 ![Nineties Default Theme](/.media/Nineties_default-preview.png)
@@ -22,14 +28,6 @@ Install using the Visual Studio Marketplace: https://marketplace.visualstudio.co
 
 *<p align="right">Nineties BIOS Theme</p>*
 ![Nineties BIOS Theme](/.media/Nineties_BIOS-preview.png)
-
-
-# Sublime
-[Download this repository as a .zip](https://github.com/jaredgorski/Nineties/archive/master.zip), unzip the directory, open your `Packages` directory in Sublime via `Preferences -> Browse Packages`, and copy the **Nineties_textmate** folder into `Packages`.
-
-# TextMate
-[Download this repository as a .zip](https://github.com/jaredgorski/Nineties/archive/master.zip), unzip the directory, navigate within the **Nineties_textmate** folder, and open the desired **.tmTheme** file using TextMate.
-
 
 ---
 
