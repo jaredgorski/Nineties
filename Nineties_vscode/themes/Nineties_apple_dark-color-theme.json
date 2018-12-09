@@ -42,7 +42,7 @@
 			"name": "Variable",
 			"scope": "variable",
 			"settings": {
-				"foreground": "#ff2e97",
+				"foreground": "#e62b88",
 			}
 		},
 		{
@@ -141,7 +141,7 @@
 			"name": "Library variable",
 			"scope": "support.other.variable",
 			"settings": {
-				"foreground": "#ff2e97"
+				"foreground": "#e62b88"
 			}
 		},
 		{
