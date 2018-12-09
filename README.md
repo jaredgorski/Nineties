@@ -13,7 +13,7 @@ Install using the Visual Studio Marketplace: https://marketplace.visualstudio.co
 [Download this repository as a .zip](https://github.com/jaredgorski/Nineties/archive/master.zip), unzip the directory, navigate within the **Nineties_textmate** folder, and open the desired **.tmTheme** file using TextMate.
 
 # Theme Variations:
-*Visual Studio Code themes shown here. Sublime and TextMate color schemes only affect the editor area.*
+*Visual Studio Code themes shown here.*
 
 *<p align="right">Nineties Default Theme</p>*
 ![Nineties Default Theme](/.media/Nineties_default-preview.png)
