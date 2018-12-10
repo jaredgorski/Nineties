@@ -14,7 +14,7 @@ Install using the Visual Studio Marketplace: https://marketplace.visualstudio.co
 
 # Theme Variations:
 *Visual Studio Code themes shown here.*
-*All swatches made with [Swatchmaker](https://github.com/jaredgorski/Swatchmaker)*
+*All swatches created with [Swatchmaker](https://github.com/jaredgorski/Swatchmaker)*
 
 *<p align="right">Nineties Default Theme</p>*
 ![Nineties Default Theme Swatch](/.media/swatches/Nineties_default-swatch.png)
