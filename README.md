@@ -17,24 +17,24 @@ Install using the Visual Studio Marketplace: https://marketplace.visualstudio.co
 *All swatches made with [Swatchmaker](https://github.com/jaredgorski/Swatchmaker)*
 
 *<p align="right">Nineties Default Theme</p>*
-![Nineties Default Theme](/.media/Nineties_default-preview.png)
 ![Nineties Default Theme Swatch](/.media/swatches/Nineties_default-swatch.png)
+![Nineties Default Theme](/.media/Nineties_default-preview.png)
 
 *<p align="right">Nineties Big Blue Theme</p>*
-![Nineties Big Blue Theme](/.media/Nineties_big_blue-preview.png)
 ![Nineties Big Blue Theme Swatch](/.media/swatches/Nineties_big_blue-swatch.png)
+![Nineties Big Blue Theme](/.media/Nineties_big_blue-preview.png)
 
 *<p align="right">Nineties Apple Dark Theme</p>*
-![Nineties Apple Dark Theme](/.media/Nineties_apple_dark-preview.png)
 ![Nineties Apple Dark Theme Swatch](/.media/swatches/Nineties_apple_dark-swatch.png)
+![Nineties Apple Dark Theme](/.media/Nineties_apple_dark-preview.png)
 
 *<p align="right">Nineties Apple Light Theme</p>*
-![Nineties Apple Light Theme](/.media/Nineties_apple_light-preview.png)
 ![Nineties Apple Light Theme Swatch](/.media/swatches/Nineties_apple_light-swatch.png)
+![Nineties Apple Light Theme](/.media/Nineties_apple_light-preview.png)
 
 *<p align="right">Nineties BIOS Theme</p>*
-![Nineties BIOS Theme](/.media/Nineties_BIOS-preview.png)
 ![Nineties BIOS Theme Swatch](/.media/swatches/Nineties_BIOS-swatch.png)
+![Nineties BIOS Theme](/.media/Nineties_BIOS-preview.png)
 
 ---
 
