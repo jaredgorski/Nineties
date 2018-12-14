@@ -230,6 +230,8 @@
 		"sideBar.foreground": "#EAEAEA",
 		"sideBarTitle.foreground": "#d0dada",
 		"statusBar.background": "#272727",
+		"statusBar.noFolderBackground" : "#272727",
+		"statusBar.debuggingBackground": "#3d1717",
 		"statusBar.foreground": "#d0dada",
 		"tab.activeBackground": "#464646",
 		"tab.activeBorder": "#b8c1c1",

@@ -217,6 +217,8 @@
 		"sideBar.foreground": "#19273C",
 		"sideBarTitle.foreground": "#424747",
 		"statusBar.background": "#d8d8d8",
+		"statusBar.noFolderBackground" : "#d8d8d8",
+		"statusBar.debuggingBackground": "#bb8888",
 		"statusBar.foreground": "#464646",
 		"tab.activeBackground": "#a6a5a6",
 		"tab.activeBorder": "#595859",
