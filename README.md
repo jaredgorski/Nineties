@@ -38,4 +38,4 @@ Install using the Visual Studio Marketplace: https://marketplace.visualstudio.co
 
 ---
 
-*Inspired by [the IBM Design Language Color Library](https://www.ibm.com/design/language/resources/color-library/)* and the colors of the vintage Apple logo.
+*Inspired by [the IBM Design Language Color Library](https://www.ibm.com/design/language/resources/color-library/) and the colors of the vintage Apple logo.*
