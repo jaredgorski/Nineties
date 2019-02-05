@@ -221,6 +221,8 @@
 		"statusBar.noFolderBackground" : "#d8d8d8",
 		"statusBar.debuggingBackground": "#bb8888",
 		"statusBar.foreground": "#464646",
+		"settings.dropdownBackground": "#464646",
+		"settings.dropdownForeground": "#EAEAEA",
 		"tab.activeBackground": "#a6a5a6",
 		"tab.activeBorder": "#595859",
 		"tab.activeForeground": "#464646",
