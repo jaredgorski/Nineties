@@ -1,4 +1,4 @@
-# Nineties ![](https://img.shields.io/visual-studio-marketplace/d/jibjack.nineties.svg?color=lightblue) <img align="left" height="100" src="/.media/Nineties_icon.png">
+# Nineties ![](https://img.shields.io/visual-studio-marketplace/d/jibjack.nineties.svg?color=lightblue) ![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/jibjack.nineties.svg?color=lightblue) <img align="left" height="100" src="/.media/Nineties_icon.png">
 Colors for World Wide Web pioneers
 
 ![Nineties Theme](/.media/Nineties_all-preview.png)
